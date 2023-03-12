@@ -19,7 +19,7 @@ docker compose down
 cd pgadmin
 docker compose up -d
 ```
-Detenet contenedor de postgres
+Detenet contenedor de pgadmin
 
 ```bash
 docker compose down
