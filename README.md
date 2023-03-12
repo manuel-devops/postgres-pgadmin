@@ -1,4 +1,4 @@
-# Postgresql
+# Postgres-pgadmin
 
 ## Iniciar contenedor de postgre
 
